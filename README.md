@@ -27,10 +27,12 @@ In the screenshot above:
 - **CSS & Bootstrap**: For styling and responsive layout
 
 ### apikey
+```js
 module.exports = {
   key: "{Your API key}",
   base: "https://api.openweathermap.org/data/2.5/",
 };
+```
 
 
 ### MADE BY

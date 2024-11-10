@@ -26,7 +26,7 @@ In the screenshot above:
 - **OpenWeather API**: For fetching real-time weather data.
 - **CSS & Bootstrap**: For styling and responsive layout
 
-### apikey
+### api key
 ```js
 module.exports = {
   key: "{Your API key}",

@@ -36,9 +36,9 @@ module.exports = {
 
 
 ### MADE BY
-Ambar 
-Ankush 
-Siddhi
-Ruthvik
-Alakshendra 
-Rohit
+- Ambar 
+- Ankush 
+- Siddhi
+- Ruthvik
+- Alakshendra 
+- Rohit
